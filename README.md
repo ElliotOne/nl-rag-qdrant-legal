@@ -118,7 +118,7 @@ NuGet packages required (see `.csproj`):
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](https://github.com/ElliotOne/nl-rag-qdrant-legal/blob/master/LICENSE) file for details. &#x20;
 
 ## Contributing
 
